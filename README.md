@@ -1,5 +1,6 @@
-# NYCU_DLP_2023!
-[Uploading 截圖 2023-05-31 上午9.23.50.png…]()
+# NYCU_DLP_2023
+* 我媽問我最近忙什麼？：Gradient Descent
+![image](https://github.com/romanycc/NYCU_DLP_2023/blob/main/img.png)
 ## Lab1: Backpropagation
 ## Lab2: 2048
 * Adding extra features can extremely improve performance, which is not implement in my code.

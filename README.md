@@ -1,4 +1,5 @@
 # NYCU_DLP_2023
+* 2023 Spring Semester Deep Learning
 * 我媽問我最近都在做什麼？：Gradient Descent
 ![image](https://github.com/romanycc/NYCU_DLP_2023/blob/main/img.png)
 ## Lab1：Backpropagation
